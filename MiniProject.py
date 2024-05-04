@@ -34,12 +34,14 @@
 # print("Your random password is:", password)
 
 # using same code with list comprihantion [function for i in range(n)]
-import random  
-import string  
+# import random  
+# import string  
 
-password_len = 12
-charValues = string.ascii_letters + string.digits + string.punctuation
+# password_len = 12
+# charValues = string.ascii_letters + string.digits + string.punctuation
 
-password = "".join([random.choice(charValues) for i in range(password_len)])
+# password = "".join([random.choice(charValues) for i in range(password_len)])
 
-print("Your random password is:", password)
+# print("Your random password is:", password)
+
+# -------------------------------------------------------------------------------------------------------
